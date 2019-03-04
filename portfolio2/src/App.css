@@ -1,44 +1,68 @@
 .App {
   text-align: center;
-  background: #a1c3d1
+  background-color: #4e4e50;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #41b3a3;
+}
+
+h1, span {
+  color: #1a1a1d;
+}
+
+h1 {
+  padding: 10px;
 }
 
 .ml-auto {
-  background: #f0ebf4;
+  background: #4e4e50;
   border-radius: 15px;
 }
 
 .name {
-  color: #b39bc8;
+  color: #950740;
   padding: 15px 15px;
+  border-left: solid #c3073f 5px;
+  border-bottom: solid #c3073f 5px;
+  border-radius: 15px 30px 30px 5px;
 }
 
-.name:hover, .navlink:hover {
-  color: #f172a1;
-  background: #f0ebf4;
-  
-  border-radius: 15px;
+.name:hover {
+  color: #c3073f;
+  background: #950740;
+  border-radius: 15px 30px 30px 5px;
 }
+
+.navlink:hover {
+  color: #c3073f;
+  background: #950740;
+  border-radius: 5px 30px 5px 15px;
+}
+
 .navlink {
-  color: #b39bc8;
+  color: #950740;
   padding: 25px;
+  margin: 10px;
+  border-right: solid #c3073f 5px;
+  border-top: solid #c3073f 5px;
+  border-radius: 5px 30px 5px 15px;
 }
 
 .navbar {
   color: #000;
 }
 
-.intro {
-  margin: auto;
-  width: 85%;
-  height: 200px;
-  background-color: #b39bc8;
-  border-left: solid #f172a1 5px;
-  border-bottom: solid #f172a1 5px;
+.img-fluid {
+  padding-bottom: 15px;
+  border-radius: 5px 25px 45px 60px
+}
+
+.container {
+  margin: 0px;
+  background-color: #6f2232;
+  border-left: solid #c3073f 5px;
+  border-right: solid #c3073f 5px;
   border-radius: 15px 50px 30px 5px;
 }
 
@@ -46,6 +70,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
