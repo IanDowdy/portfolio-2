@@ -63,7 +63,7 @@ h1 {
   background-color: #6f2232;
   border-left: solid #c3073f 5px;
   border-right: solid #c3073f 5px;
-  border-radius: 15px 50px 30px 5px;
+  border-radius: 15px 50px 30px 10px;
 }
 
 @keyframes name-spin {

@@ -1,0 +1,40 @@
+
+
+.card-body {
+    margin: 25px;
+}
+
+h3 {
+    text-align: center;
+}
+.cardText {
+    padding: 5px;
+    color: #c3073f;
+}
+
+.col-8 {
+    text-align: center;
+    margin: auto;
+    
+}
+
+.projectText {
+  color: #c3073f;
+}
+
+.projectWrapper {
+    background-color: #4e4e50;
+}
+
+.textBackground {
+    background: rgb(78, 78, 80, 0.5);
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 15px;
+}
+
+.visitButton {
+    margin: auto;
+    color: #4e4e50
+}
+
