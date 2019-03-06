@@ -14,7 +14,8 @@ const Projects = () => {
                             <span className="projectText">
                                 A web application designed to streamline touring processes for bands and musicians. These folks travel all over the country, and with them comes their equipment.
                             They need places to rest, perform and store their equipment safely. This application targets small businesses, homeowners and essentially any atypical
-                            individual with the space and time required. Bands provide a fee in exchange for refuge, equipment storage and a venue.
+                            individual with the space and time required. Bands provide a fee in exchange for refuge, equipment storage and a venue. A personal flair to 
+                            a personal profession.
                             </span>
                         </div>
                         <div className="col-4">
@@ -35,9 +36,12 @@ const Projects = () => {
                         </div>
                         <div className="col-4 textBackground">
                             <span className="projectText">
-                                A web application designed to streamline touring processes for bands and musicians. These folks travel all over the country, and with them comes their equipment.
-                            They need places to rest, perform and store their equipment safely. This application targets small businesses, homeowners and essentially any atypical
-                            individual with the space and time required. Bands provide a fee in exchange for refuge, equipment storage and a venue.
+                               This web application was built around the idea that any local area can have it's own online free antique giveaway.
+                               Austin is a large and dense city, and all those people have lots of common/seasonal items that might be somewhat difficult to sell individually.
+                               When people no longer want their stuff, we would like to provide them one more option to these unwanted seasonal items.
+                               Easter, Christmas, Halloween etc. This app is specifically designed for these common products, with the intention of moving them
+                               in bulk at heavily discounted prices. Sort of like auctioning off old storage units, except there's a specific theme to each one.
+                               
                             </span>
                         </div>
                     </div>
