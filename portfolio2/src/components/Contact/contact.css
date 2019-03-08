@@ -1,0 +1,48 @@
+.col-10 {
+    background-color: #4e4e50;
+}
+
+.row {
+    background-color: #4e4e50;
+}
+
+Form {
+    background-color: #4e4e50;
+   
+}
+
+label {
+    color: #950740;
+}
+
+.FormGroup {
+    padding: 10px
+}
+
+.legend {
+    color: #c3073f;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    font-size: 5em;
+    background: linear-gradient(#4e4e50, #950740);
+    border-radius: 0px 0px 25px 25px;
+}
+
+label {
+    font-size: 2em;
+    font-family: 'Electrolize', sans-serif;
+    font-weight: bold;
+}
+
+.submit {
+    color: #c3073f;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Electrolize', sans-serif;
+}
+
+/*
+font-family: 'Kanit', sans-serif;
+font-family: 'Electrolize', sans-serif;
+font-family: 'Spectral', serif;
+*/
