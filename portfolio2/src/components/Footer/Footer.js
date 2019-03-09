@@ -1,20 +1,15 @@
-import { React, Component } from 'react';
-import { Navbar, NavbarBrand } from 'reactstrap';
-import { Container } from 'bootstrap';
-import './Footer.css';
+import React from "react";
+import "./Footer.css";
 
-class AppFooter extends Component{
-    render() {
-        return(
-            <div className="fixed-bottom">  
-                <Navbar color="dark" dark>
-                    <Container>
-                        <NavbarBrand>Footer</NavbarBrand>
-                    </Container>
-                </Navbar>
-            </div>
-        )
-    }
+const Footer = () => {
+   return (
+      
+   <div className="ui footer">
+   <div className="black"> <i>&copy; CodeThis</i>
+   
+   </div>
+   </div>
+   );
 }
 
-export default AppFooter;
+export default Footer;

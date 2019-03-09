@@ -1,0 +1,13 @@
+
+[
+    {     
+      "src": "assets/pictures/basketball.jpg",
+      "altText": "2k19",
+      "caption": "I like basketball a lot and stuff."
+    },
+    {
+      "src": "../src/assets/pictures/ssbu.jpg",
+      "altText": "Smash Bros",
+      "caption": "I like to Smash! XD."
+    }
+]

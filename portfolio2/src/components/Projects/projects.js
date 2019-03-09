@@ -7,8 +7,8 @@ import grandmasAttic from '../../assets/pictures/grandmas-attic.png'
 const Projects = () => {
     return (
         <div>
-            <div className="projectWrapper">
                 <div className="container">
+            <div className="projectWrapper">
                     <div className="row">
                         <div className="col-4 offset-2 textBackground">
                             <span className="projectText">
@@ -19,7 +19,7 @@ const Projects = () => {
                             </span>
                         </div>
                         <div className="col-4">
-                            <Card body outline color="" className="card" style={{ backgroundColor: '#4e4e50', border: '5px solid #6f2232', borderRadius: '25px' }}>
+                            <Card body outline color="" className="card" style={{ backgroundColor: '#4e4e50', border: '5px solid #c3073f', borderRadius: '25px' }}>
                                 <CardImg width="100%" src={SpaceJam} style={{ borderRadius: '15px' }} />
                                 <CardTitle className="cardText"><h3>Space Jam</h3></CardTitle>
                                 <CardLink className="visitButton" href="https://tomsmaj.github.io/Space-Jam/"><Button color="danger"><h3 className="visitButton">Visit</h3></Button></CardLink>
@@ -28,7 +28,7 @@ const Projects = () => {
                     </div>
                     <div className="row">
                         <div className="col-4 offset-2">
-                        <Card body outline color="" className="card" style={{ backgroundColor: '#4e4e50', border: '5px solid #6f2232', borderRadius: '25px' }}>
+                        <Card body outline color="" className="card" style={{ backgroundColor: '#4e4e50', border: '5px solid #c3073f', borderRadius: '25px' }}>
                                 <CardImg width="100%" src={grandmasAttic} style={{ borderRadius: '15px' }} />
                                 <CardTitle className="cardText"><h3>Grandma's Attic</h3></CardTitle>
                                 <CardLink className="visitButton" href="https://grandmasattic.herokuapp.com/"><Button color="danger"><h3 className="visitButton">Visit</h3></Button></CardLink>

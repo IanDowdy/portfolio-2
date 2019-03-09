@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: #4e4e50;
 }
 
 .App-link {
@@ -16,27 +15,26 @@ h1 {
 }
 
 .ml-auto {
-  background: #4e4e50;
   border-radius: 15px;
 }
 
 .name {
   color: #950740;
   padding: 15px 15px;
-  border-left: solid #c3073f 5px;
-  border-bottom: solid #c3073f 5px;
+  border-left: solid #950740 5px;
+  border-bottom: solid #950740 5px;
   border-radius: 15px 30px 30px 5px;
 }
 
 .name:hover {
   color: #c3073f;
-  background: #950740;
+  background: #4e4e50;
   border-radius: 15px 30px 30px 5px;
 }
 
 .navlink:hover {
   color: #c3073f;
-  background: #950740;
+  background: #4e4e50;
   border-radius: 5px 30px 5px 15px;
 }
 
@@ -44,8 +42,8 @@ h1 {
   color: #950740;
   padding: 25px;
   margin: 10px;
-  border-right: solid #c3073f 5px;
-  border-top: solid #c3073f 5px;
+  border-right: solid #950740 5px;
+  border-top: solid #950740 5px;
   border-radius: 5px 30px 5px 15px;
 }
 

@@ -1,26 +1,25 @@
-.col-10 {
-    background-color: #4e4e50;
+
+.contactHeader {
+    text-align: center;
 }
 
-.row {
-    background-color: #4e4e50;
-}
-
-Form {
-    background-color: #4e4e50;
-   
-}
-
-label {
-    color: #950740;
+.container {
+    padding: 15px;
 }
 
 .FormGroup {
     padding: 10px
 }
 
+.heading {
+    padding: 10px 0px 0px 10px;
+}
+
+.hyperlink:hover {
+    color: #4e4e50;
+}
+
 .legend {
-    color: #c3073f;
     font-family: 'Kanit', sans-serif;
     text-align: center;
     font-size: 5em;
@@ -32,15 +31,18 @@ label {
     font-size: 2em;
     font-family: 'Electrolize', sans-serif;
     font-weight: bold;
+    color: #950740;
 }
 
 .submit {
-    color: #c3073f;
     font-size: 2em;
     font-weight: bold;
     font-family: 'Electrolize', sans-serif;
 }
 
+.hyperlink, .contactHeader, .heading, .legend, .submit {
+    color: #c3073f;
+}
 /*
 font-family: 'Kanit', sans-serif;
 font-family: 'Electrolize', sans-serif;

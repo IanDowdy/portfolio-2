@@ -1,17 +1,31 @@
+.bio {
+    color: #c3073f;
+    font-family: 'Kanit', sans-serif;
+    font-size: 3vh;
+}
+
 .container  {
     border: 1px solid #c3073f;
     border-radius: 0px 0px 0px 15px;
 }
 
-.homeWrapper {
-    background-color: #4e4e50;
+.greeting {
+    font-family: 'Kanit', sans-serif;
+    color: #c3073f;
+    font-size: 5em;
+    
 }
 
 .col-8 {
-    
     border-radius: 0px 0px 0px 15pxs;
+}
+
+.jumbo {
+    padding: 0px;
 }
 
 #curveEdge {
     border-radius: 0px 0px 0px 15px;
 }
+
+
