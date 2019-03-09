@@ -19,6 +19,7 @@ const Home = () => {
                     <div className="row">
                         <div className="col-12"><hr /><br /></div>
                     </div>
+
                     <div className="row" id="curveEdge">
                         <div className="col-8"><span className="bio">My name is Ian, annihilator of pizza, father to the most adorable cat of all time, lover of irreverent comedies, astronomy,
                                 Basketball (Go Spurs Go!), cosmology, Dr. Pepper, music video games, and Coding!.</span>
@@ -27,6 +28,21 @@ const Home = () => {
                             <br /><br />
                         </div>
                         <div className="col-4"><img src={picOfMe} className="img-fluid" alt="" /></div>
+                    </div>
+                    <hr/>
+                    <div className="row">
+                        <div className="col-8 offset-2 fullstack">
+                            <h2 className="skillsHeader">Full-Stack Skills</h2>
+                            <ul className="menu">
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>Javascript</li>
+                                <li>Node.js</li>
+                                <li>MySQL</li>
+                                <li>MongoDB</li>
+                                <li>React.js</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

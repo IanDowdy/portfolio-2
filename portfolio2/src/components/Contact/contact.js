@@ -19,11 +19,11 @@ const Example = () => {
                 <div className="col-6 offset-3">
 
                     <Media>
-                        <Media left top href="linkedin.com/in/ian-dowdy-33b917111">
+                        <Media left top href="https://linkedin.com/in/ian-dowdy-33b917111">
                             <Media object src={LinkedIn} alt="Generic placeholder image" />
                         </Media>
                         <Media body>
-                            <Media heading className="heading" href="linkedin.com/in/ian-dowdy-33b917111">
+                            <Media heading className="heading" href="https://linkedin.com/in/ian-dowdy-33b917111">
                                 <a className="hyperlink" href="linkedin.com/in/ian-dowdy-33b917111">linkedin.com/in/ian-dowdy-33b917111</a>
                             </Media>
                         </Media>

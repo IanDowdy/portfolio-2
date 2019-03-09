@@ -16,6 +16,17 @@
     
 }
 
+ul.menu li {
+    display: inline-block;
+    padding: 10px;
+    margin: 3px;
+    font-weight: bold;
+    color: #c3073f;
+    border: 1px solid #c3073f;
+    border-radius: 15px;
+}
+
+
 .col-8 {
     border-radius: 0px 0px 0px 15pxs;
 }
@@ -28,4 +39,10 @@
     border-radius: 0px 0px 0px 15px;
 }
 
+.skillsHeader {
+    border-bottom: solid 2px #c3073f;
+    text-align: center;
+    margin-bottom: 2vh;
+    color: #c3073f;
+}
 
