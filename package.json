@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "",
+    "build": "webpack --env.API_URL=https://www.myapi.com --config webpack.config.build.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
