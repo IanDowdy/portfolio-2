@@ -9,7 +9,7 @@ import Contact from './components/Contact/contact';
 import Projects from './components/Projects/projects';
 
 ReactDOM.render(
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <div>        
         <Route path="/" component={App} />
         <Route exact path="/" component={Home} />
