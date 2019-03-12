@@ -57,7 +57,7 @@ h1 {
 }
 
 .container {
-  margin: 0px;
+  margin: auto;
   background-color: #6f2232;
   border-left: solid #c3073f 5px;
   border-right: solid #c3073f 5px;
